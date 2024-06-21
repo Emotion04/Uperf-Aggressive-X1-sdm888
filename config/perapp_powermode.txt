@@ -1,0 +1,18 @@
+# 分应用性能模式配置
+# '-' means offscreen rule
+# '*' means default rule
+# powersave balance performance fast
+
+com.android.packageinstaller performance
+com.tencent.tmgp.sgame fast
+com.samsung.android.ruler fast
+eu.thedarken.sdm fast
+# energyring息屏显示
+cn.vove7.energy_ring powersave
+com.netease.sky.huawei powersave
+com.netease.sky powersave
+com.smile.gifmaker powersave
+tv.danmaku.bili powersave
+com.tencent.mobileqq powersave
+- balance
+* balance
